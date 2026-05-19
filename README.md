@@ -64,19 +64,6 @@ Mean Pitch per Emotion
 Mean Intensity per Emotion
 Confusion Matrix
 
-Project Structure
-adaptive-robot-voice-behavior/
-│── data/                     # Audio files and extracted features
-│── notebooks/                # Jupyter notebooks for experimentation
-│── models/                   # Trained model files
-│── src/
-│   ├── feature_extraction.py
-│   ├── train_model.py
-│   └── predict.py
-│── report/                   # Research report and documentation
-│── requirements.txt
-│── README.md
-
 How to Run
 1. Clone the Repository
 git clone https://github.com/AlishaTandon25/adaptive-robot-voice-behavior.git
