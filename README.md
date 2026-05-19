@@ -30,6 +30,7 @@ Neutral
 Calm
 Happy
 Angry
+
 Tech Stack
 Python
 Librosa
@@ -41,6 +42,7 @@ Seaborn
 Jupyter Notebook
 Dataset
 RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
+
 Features Implemented
 Audio preprocessing
 Feature extraction (Pitch, Intensity, MFCCs)
@@ -61,6 +63,7 @@ The project currently includes:
 Mean Pitch per Emotion
 Mean Intensity per Emotion
 Confusion Matrix
+
 Project Structure
 adaptive-robot-voice-behavior/
 │── data/                     # Audio files and extracted features
@@ -73,6 +76,7 @@ adaptive-robot-voice-behavior/
 │── report/                   # Research report and documentation
 │── requirements.txt
 │── README.md
+
 How to Run
 1. Clone the Repository
 git clone https://github.com/AlishaTandon25/adaptive-robot-voice-behavior.git
@@ -81,6 +85,7 @@ cd adaptive-robot-voice-behavior
 pip install -r requirements.txt
 3. Run the Project
 python main.py
+
 Current Progress
 Literature review completed
 Feature extraction pipeline implemented
@@ -90,17 +95,20 @@ Progress report prepared
 User study design in progress
 Final research paper under development
 Real-time robot integration planned
+
 Future Work
 Improve model accuracy using deep learning (CNN/LSTM)
 Conduct user perception studies
 Integrate with robotic platforms
 Implement real-time adaptive voice modulation
 Expand to additional emotions
+
 References
 Livingstone, S. R., & Russo, F. A. (2018). RAVDESS Dataset.
 Emotional Speech Recognition using Machine Learning.
 Quatieri, T. F. (2002). Discrete-Time Speech Signal Processing.
 Human-Robot Interaction studies on trust and comfort.
+
 Author
 
 Alisha Tandon
